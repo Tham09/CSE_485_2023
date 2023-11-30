@@ -1,6 +1,6 @@
 <?php
 include '../Data/data.php';
-j
+
 try {
     $db = new DB();
     $db->connect();
