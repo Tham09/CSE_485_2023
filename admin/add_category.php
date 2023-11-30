@@ -1,6 +1,6 @@
- <?php
+<?php
 include '../Backend/DB.php';
-d
+
 try {
     $db = new DB();
     $db->connect();
