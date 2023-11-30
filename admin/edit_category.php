@@ -1,5 +1,5 @@
 <?php
-include '../Backend/DB.php';
+include '../Data/data.php';
 
 try {
     $db = new DB();
